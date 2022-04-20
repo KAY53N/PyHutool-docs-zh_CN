@@ -38,6 +38,10 @@ extensions = [
     'sphinx.ext.viewcode'
 ]
 
+pygments_style = 'sphinx'
+source_suffix = ['.rst', '.md']
+master_doc = 'index'
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
@@ -63,3 +67,15 @@ pygments_style = 'sphinx'
 
 language = 'zh_CN'  # 设置新项目的语言与中文 ['en', 'zh_CN']
 locale_dirs = ['locale/']
+
+
+man_pages = [
+    (master_doc, 'deeptables', 'DeepTables Documentation',
+     [author], 1)
+]
+
+texinfo_documents = [
+    (master_doc, 'DeepTables', 'DeepTables Documentation',
+     author, 'DeepTables', 'One line description of project.',
+     'Miscellaneous'),
+]
