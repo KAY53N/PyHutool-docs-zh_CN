@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, kaysen
+# This file is distributed under the same license as the PyHutool package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyHutool \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-21 00:01+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+
+#: ../core.rst:3
+msgid "Core Control Functions"
+msgstr ""
+
+#: ../core.rst:6
+msgid "Compress Functions"
+msgstr ""
+
+#: ../core.rst:7
+msgid "Compressed file related functions"
+msgstr ""
+
+#: ../core.rst:18
+msgid "Convert Functions"
+msgstr ""
+
+#: ../core.rst:19
+msgid "Convert numbers to Chinese uppercase"
+msgstr ""
+
+#: ../core.rst:25
+msgid "type conversion"
+msgstr ""
+
+#: ../core.rst:31
+msgid "convert to string .. code:: python"
+msgstr ""
+
+#: ../core.rst:36
+msgid "convert byte to unit"
+msgstr ""
+
+#: ../core.rst:42
+msgid "convert bytes to int"
+msgstr ""
+
+#: ../core.rst:48
+msgid "Chinese capitalized amount converted into numbers"
+msgstr ""
+
+#: ../core.rst:54
+msgid "Convert digital amounts to Chinese uppercase"
+msgstr ""
+
+#: ../core.rst:62
+msgid "Date Functions"
+msgstr ""
+
+#: ../core.rst:63
+msgid "Calculate the age of a specified birthday in a certain year"
+msgstr ""
+
+#: ../core.rst:69
+msgid "Modify the start time of the current week for a given date"
+msgstr ""
+
+#: ../core.rst:76
+msgid "Compare if two dates are the same day"
+msgstr ""
+
+#: ../core.rst:82
+msgid "Compare if two dates are the same month"
+msgstr ""
+
+#: ../core.rst:88
+msgid "Compare if two dates are the same week"
+msgstr ""
+
+#: ../core.rst:94
+msgid "Get the specified date year and quarter"
+msgstr ""
+
+#: ../core.rst:100
+msgid "Get the year and quarter within the specified date range and return"
+msgstr ""
+
+#: ../core.rst:106
+msgid ""
+"Return how long ago according to the time, such as: 1 second ago, 1 "
+"minute ago, 1 hour ago"
+msgstr ""
+
+#: ../core.rst:114
+msgid "Image Functions"
+msgstr ""
+
+#: ../core.rst:116
+msgid "zoom image"
+msgstr ""
+
+#: ../core.rst:123
+msgid "grayscale image"
+msgstr ""
+
+#: ../core.rst:129
+msgid "image binary"
+msgstr ""
+
+#: ../core.rst:135
+msgid "Mean Color Replacement"
+msgstr ""
+
+#: ../core.rst:142
+msgid "Gaussian replacement replaces image color"
+msgstr ""
+
+#: ../core.rst:148
+msgid "mean replace image color"
+msgstr ""
+
+#: ../core.rst:154
+msgid "Image watermark"
+msgstr ""
+
+#: ../core.rst:160
+msgid "Detect image type"
+msgstr ""
+
+#: ../core.rst:166
+msgid "Detect image MIME type"
+msgstr ""
+
+#: ../core.rst:172
+msgid "Identify the face in the picture and return the coordinates of the face"
+msgstr ""
+
