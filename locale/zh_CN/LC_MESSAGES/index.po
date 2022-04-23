@@ -36,11 +36,11 @@ msgstr "目录："
 
 #: ../index.rst:12
 msgid "module"
-msgstr ""
+msgstr "模块"
 
 #: ../index.rst:12
 msgid "introduce the module"
-msgstr ""
+msgstr "介绍"
 
 #: ../index.rst:14
 msgid "pyhutool.core"
@@ -48,7 +48,7 @@ msgstr ""
 
 #: ../index.rst:14
 msgid "Including file processing, data conversion, dates, various tools, etc."
-msgstr ""
+msgstr "包括文件处理、数据转换、日期、各种工具等。"
 
 #: ../index.rst:15
 msgid "pyhutool.gui"
@@ -58,7 +58,7 @@ msgstr ""
 msgid ""
 "Automation library, including operations of buttons, mouse, screenshots, "
 "etc."
-msgstr ""
+msgstr "自动化库，包括按键操作、鼠标操作、截图操作等。"
 
 #: ../index.rst:16
 msgid "pyhutool.system"
@@ -69,7 +69,7 @@ msgid ""
 "Get system-related information, such as the number of monitors, the "
 "current window title, what program the system is running, and the PID, "
 "etc."
-msgstr ""
+msgstr "获取系统相关信息，如显示器数量，当前窗口标题，系统正在运行什么程序以及PID等"
 
 #: ../index.rst:17
 msgid "pyhutool.crypto"
@@ -79,17 +79,12 @@ msgstr ""
 msgid ""
 "Encryption and decryption module, providing symmetric, asymmetric and "
 "digest algorithm encapsulation"
-msgstr ""
+msgstr "加密解密模块，提供对称、非对称和摘要算法封装"
 
-#: ../index.rst:32
-msgid ""
-"This example drags the mouse in a square spiral shape in MS Paint (or any"
-" graphics drawing program):"
-msgstr ""
 
 #: ../index.rst:41
 msgid "Indices and tables"
-msgstr ""
+msgstr "索引"
 
 #: ../index.rst:43
 msgid ":ref:`genindex`"
