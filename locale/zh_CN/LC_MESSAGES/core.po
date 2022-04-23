@@ -19,127 +19,127 @@ msgstr ""
 
 #: ../core.rst:3
 msgid "Core Control Functions"
-msgstr ""
+msgstr "核心模块"
 
 #: ../core.rst:6
 msgid "Compress Functions"
-msgstr ""
+msgstr "压缩函数"
 
 #: ../core.rst:7
 msgid "Compressed file related functions"
-msgstr ""
+msgstr "压缩文件相关功能"
 
 #: ../core.rst:18
 msgid "Convert Functions"
-msgstr ""
+msgstr "转换函数"
 
 #: ../core.rst:19
 msgid "Convert numbers to Chinese uppercase"
-msgstr ""
+msgstr "将数字转换为中文大写"
 
 #: ../core.rst:25
 msgid "type conversion"
-msgstr ""
+msgstr "类型转换"
 
 #: ../core.rst:31
 msgid "convert to string .. code:: python"
-msgstr ""
+msgstr "转换为字符串 .. code:: python"
 
 #: ../core.rst:36
 msgid "convert byte to unit"
-msgstr ""
+msgstr "将字节转换为unit"
 
 #: ../core.rst:42
 msgid "convert bytes to int"
-msgstr ""
+msgstr "将字节转换为整数"
 
 #: ../core.rst:48
 msgid "Chinese capitalized amount converted into numbers"
-msgstr ""
+msgstr "中文大写金额转换为数字"
 
 #: ../core.rst:54
 msgid "Convert digital amounts to Chinese uppercase"
-msgstr ""
+msgstr "将数字金额转换为中文大写"
 
 #: ../core.rst:62
 msgid "Date Functions"
-msgstr ""
+msgstr "日期函数"
 
 #: ../core.rst:63
 msgid "Calculate the age of a specified birthday in a certain year"
-msgstr ""
+msgstr "计算某年指定生日的年龄"
 
 #: ../core.rst:69
 msgid "Modify the start time of the current week for a given date"
-msgstr ""
+msgstr "修改给定日期当前周的开始时间"
 
 #: ../core.rst:76
 msgid "Compare if two dates are the same day"
-msgstr ""
+msgstr "比较两个日期是否为同一天"
 
 #: ../core.rst:82
 msgid "Compare if two dates are the same month"
-msgstr ""
+msgstr "比较两个日期是否同月"
 
 #: ../core.rst:88
 msgid "Compare if two dates are the same week"
-msgstr ""
+msgstr "比较两个日期是否在同一周"
 
 #: ../core.rst:94
 msgid "Get the specified date year and quarter"
-msgstr ""
+msgstr "获取指定日期年份和季度"
 
 #: ../core.rst:100
 msgid "Get the year and quarter within the specified date range and return"
-msgstr ""
+msgstr "获取指定日期范围内的年份和季度并返回"
 
 #: ../core.rst:106
 msgid ""
 "Return how long ago according to the time, such as: 1 second ago, 1 "
 "minute ago, 1 hour ago"
-msgstr ""
+msgstr "根据时间返回多长时间前，如：1秒前，1分钟前，1小时前"
 
 #: ../core.rst:114
 msgid "Image Functions"
-msgstr ""
+msgstr "图像函数"
 
 #: ../core.rst:116
 msgid "zoom image"
-msgstr ""
+msgstr "缩放图像"
 
 #: ../core.rst:123
 msgid "grayscale image"
-msgstr ""
+msgstr "灰度图像"
 
 #: ../core.rst:129
 msgid "image binary"
-msgstr ""
+msgstr "图片二值化"
 
 #: ../core.rst:135
-msgid "Mean Color Replacement"
-msgstr ""
+msgid "Linear replacement color"
+msgstr "线性替换颜色"
 
 #: ../core.rst:142
 msgid "Gaussian replacement replaces image color"
-msgstr ""
+msgstr "高斯颜色替换"
 
 #: ../core.rst:148
-msgid "mean replace image color"
-msgstr ""
+msgid "Mean replace image color"
+msgstr "均值颜色替换"
 
 #: ../core.rst:154
 msgid "Image watermark"
-msgstr ""
+msgstr "图片水印"
 
 #: ../core.rst:160
 msgid "Detect image type"
-msgstr ""
+msgstr "检测图片类型"
 
 #: ../core.rst:166
 msgid "Detect image MIME type"
-msgstr ""
+msgstr "检测图片MIME"
 
 #: ../core.rst:172
 msgid "Identify the face in the picture and return the coordinates of the face"
-msgstr ""
+msgstr "从图片中查找人脸的坐标并返回"
 

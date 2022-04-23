@@ -19,17 +19,17 @@ msgstr ""
 
 #: ../crypto.rst:3
 msgid "Crypto Control Functions"
-msgstr ""
+msgstr "加密模块"
 
 #: ../crypto.rst:5
 msgid "Encryption and decryption module related implementation"
-msgstr ""
+msgstr "加解密模块相关实现"
 
 #: ../crypto.rst:8
 msgid "AES Function"
-msgstr ""
+msgstr "AES加解密"
 
 #: ../crypto.rst:10
 msgid "AES encryption and decryption related functions"
-msgstr ""
+msgstr "AES加解密相关函数"
 

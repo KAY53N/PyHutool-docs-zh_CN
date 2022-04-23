@@ -19,49 +19,49 @@ msgstr ""
 
 #: ../system.rst:3
 msgid "System Control Functions"
-msgstr ""
+msgstr "系统模块"
 
 #: ../system.rst:6
 msgid "Copy / Paste"
-msgstr ""
+msgstr "复制 / 粘贴"
 
 #: ../system.rst:8
 msgid "Invoke the copy and paste functions of the system clipboard"
-msgstr ""
+msgstr "调用系统剪贴板的复制粘贴功能"
 
 #: ../system.rst:19
 msgid "Process Function"
-msgstr ""
+msgstr "进程相关函数"
 
 #: ../system.rst:30
 msgid "Window Function"
-msgstr ""
+msgstr "窗口相关函数"
 
 #: ../system.rst:38
 msgid "System Function"
-msgstr ""
+msgstr "系统相关函数"
 
 #: ../system.rst:39
 msgid "Get the current window title"
-msgstr ""
+msgstr "获取当前窗口标题"
 
 #: ../system.rst:46
 msgid "Get system information"
-msgstr ""
+msgstr "获取系统信息"
 
 #: ../system.rst:52
 msgid "Get the current screen resolution"
-msgstr ""
+msgstr "获取当前屏幕分辨率"
 
 #: ../system.rst:58
 msgid "Open terminal"
-msgstr ""
+msgstr "打开终端"
 
 #: ../system.rst:64
 msgid "Get the number of monitors .. code:: python"
-msgstr ""
+msgstr "获取显示器数量 .. code:: python"
 
 #: ../system.rst:69
 msgid "Check if the current input method is English"
-msgstr ""
+msgstr "检查当前输入法是否为英文"
 

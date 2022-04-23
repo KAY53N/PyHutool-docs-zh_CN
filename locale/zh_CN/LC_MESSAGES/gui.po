@@ -19,11 +19,11 @@ msgstr ""
 
 #: ../gui.rst:3
 msgid "Gui Control Functions"
-msgstr ""
+msgstr "GUI模块"
 
 #: ../gui.rst:6
 msgid "The Screen and Mouse Position Function"
-msgstr ""
+msgstr "屏幕和鼠标位置"
 
 #: ../gui.rst:8
 msgid ""
@@ -31,33 +31,33 @@ msgid ""
 "coordinates. The X coordinate starts at 0 on the left side and increases "
 "going right. Unlike in mathematics, the Y coordinate starts at 0 on the "
 "top and increases going down."
-msgstr ""
+msgstr "屏幕上的位置由 X 和 Y 笛卡尔坐标表示，坐标。 X 坐标从左侧的 0 开始并增加到右侧。和数学不同，Y 坐标从顶部的 0 开始并增加到底部。"
 
 #: ../gui.rst:22
 msgid ""
 "The pixel at the top-left corner is at coordinates 0, 0. If your screen's"
 " resolution is 1920 x 1080, the pixel in the lower right corner will be "
 "1919, 1079 (since the coordinates begin at 0, not 1)."
-msgstr ""
+msgstr "左上角的像素位于坐标 0, 0。如果您的屏幕分辨率为 1920 x 1080，则在右下角的像素将为 1919, 1079（因为坐标从 0 开始而不是 1）。"
 
 #: ../gui.rst:24
 msgid ""
 "The screen resolution size is returned by the ``size()`` function as a "
 "tuple of two integers. The current X and Y coordinates of the mouse "
 "cursor are returned by the ``position()`` function."
-msgstr ""
+msgstr "屏幕分辨率大小由“size()”函数作为一个元组返回。鼠标的当前 X 和 Y 坐标由“position()”函数返回。"
 
 #: ../gui.rst:26
 msgid "For example:"
-msgstr ""
+msgstr "例如："
 
 #: ../gui.rst:39
 msgid "Mouse Clicks Function"
-msgstr ""
+msgstr "鼠标点击功能"
 
 #: ../gui.rst:52
 msgid "The write Function"
-msgstr ""
+msgstr "输入功能"
 
 #: ../gui.rst:53
 msgid ""
@@ -65,45 +65,45 @@ msgid ""
 "characters in the string that is passed. To add a delay interval in "
 "between pressing each character key, pass an int or float for the "
 "interval keyword argument. For example:"
-msgstr ""
+msgstr "主要的键盘函数是 write()。该函数将键入字符串中的字符。要在每次按下字符键之间添加一个延迟间隔，请传递一个 int 或 float 给 interval 关键字参数。例如："
 
 #: ../gui.rst:63
 msgid "The press, keyDown, and keyUp Functions"
-msgstr ""
+msgstr "press、keyDown 和 keyUp 函数"
 
 #: ../gui.rst:64
 msgid ""
 "To press these keys, call the press() function and pass it a string from "
 "the pyhutool.KEYBOARD_KEYS such as enter, esc, f1 For example:"
-msgstr ""
+msgstr "要按下这些键，请调用 press() 函数并将其传递给来自 pyhutool.KEYBOARD_KEYS 的字符串，例如 enter、esc、f1。例如："
 
 #: ../gui.rst:76
 msgid "The hotkey Function"
-msgstr ""
+msgstr "热键功能"
 
 #: ../gui.rst:77
 msgid ""
 "To make pressing hotkeys or keyboard shortcuts convenient, the hotkey() "
 "can be passed several key strings which will be pressed down in order, "
 "and then released in reverse order. This code:"
-msgstr ""
+msgstr "为了方便按下热键或键盘快捷键，热键() 可以传递多个键字符串，这些键字符串将按顺序按下，然后在反向释放。这段代码："
 
 #: ../gui.rst:87
 msgid "The screenshot Function"
-msgstr ""
+msgstr "截图功能"
 
 #: ../gui.rst:88
 msgid ""
 "Calling screenshot() will return an Image object (see the Pillow or PIL "
 "module documentation for details). Passing a string of a filename will "
 "save the screenshot to a file as well as return it as an Image object."
-msgstr ""
+msgstr "调用 screenshot() 将返回一个 Image 对象（参见 Pillow 或 PIL模块文档了解详细信息）。传递文件名字符串将屏幕截图保存到文件中，并将其作为 Image 对象返回。"
 
 #: ../gui.rst:101
 msgid "The Locate Functions"
-msgstr ""
+msgstr "定位函数"
 
 #: ../gui.rst:102
 msgid "Find coordinates in the screen based on the feature image"
-msgstr ""
+msgstr "根据特征图像在屏幕中查找坐标"
 

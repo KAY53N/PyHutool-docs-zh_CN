@@ -19,18 +19,18 @@ msgstr ""
 
 #: ../install.rst:5
 msgid "Installation"
-msgstr ""
+msgstr "安装"
 
 #: ../install.rst:7
 msgid ""
 "To install pyhutool, install the `pyhutool` package from PyPI by running "
 "`pip install pyhutool` (on Windows) or `pip3 install pyhutool` (on macOS "
 "and Linux). (On macOS and Linux, `pip` refers to Python 2's pip tool.)"
-msgstr ""
+msgstr "要安装 pyhutool，请通过运行从 PyPI 安装 `pyhutool` 包，`pip install pyhutool` (Windows) or `pip3 install pyhutool` (macOS和Linux)"
 
 #: ../install.rst:9
 msgid "OS-specific instructions are below."
-msgstr ""
+msgstr "特定的操作系统的说明"
 
 #: ../install.rst:12
 msgid "Windows"
@@ -40,7 +40,7 @@ msgstr ""
 msgid ""
 "On Windows, you can use the ``py.exe`` program to run the latest version "
 "of Python:"
-msgstr ""
+msgstr "在 Windows 上，您可以使用 ``py.exe`` 程序运行最新版本的 Python:"
 
 #: ../install.rst:16
 msgid "``py -m pip install pyhutool``"
@@ -51,7 +51,7 @@ msgid ""
 "If you have multiple versions of Python installed, you can select which "
 "one with a command line argument to ``py``. For example, for Python 3.8, "
 "run:"
-msgstr ""
+msgstr "如果您安装了多个版本的 Python，您可以选择哪个版本运行，例如，运行:"
 
 #: ../install.rst:20
 msgid "``py -3.8 -m pip install pyhutool``"
@@ -59,7 +59,7 @@ msgstr ""
 
 #: ../install.rst:22
 msgid "(This is the same as running ``pip install pyhutool``.)"
-msgstr ""
+msgstr "（这与运行 ``pip install pyhutool`` 相同。）"
 
 #: ../install.rst:25
 msgid "macOS"
@@ -67,7 +67,7 @@ msgstr ""
 
 #: ../install.rst:27 ../install.rst:38
 msgid "On macOS and Linux, you need to run ``python3``:"
-msgstr ""
+msgstr "在 macOS 和 Linux 上，您需要运行 ``python3``:"
 
 #: ../install.rst:29 ../install.rst:40
 msgid "``python3 -m pip install pyhutool``"
@@ -75,7 +75,7 @@ msgstr ""
 
 #: ../install.rst:31
 msgid "If you are running El Capitan and have problems installing pyobjc try:"
-msgstr ""
+msgstr "如果您正在运行 El Capitan 并且在安装 pyobjc 时遇到问题，请尝试"
 
 #: ../install.rst:33
 msgid "``MACOSX_DEPLOYMENT_TARGET=10.11 pip install pyobjc``"
@@ -89,7 +89,7 @@ msgstr ""
 msgid ""
 "On Linux, additionally you need to install the ``scrot`` application, as "
 "well as Tkinter:"
-msgstr ""
+msgstr "在 Linux 上，您还需要安装 ``scrot`` 应用程序，如果您还需要安装 Tkinter:"
 
 #: ../install.rst:44
 msgid "``sudo apt-get install scrot``"
