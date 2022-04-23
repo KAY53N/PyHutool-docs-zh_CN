@@ -1,3 +1,7 @@
+.idea
+.DS_Store
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -9,7 +13,6 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
-_build/
 develop-eggs/
 dist/
 downloads/
@@ -128,3 +131,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
