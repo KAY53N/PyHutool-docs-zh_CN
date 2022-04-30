@@ -42,8 +42,8 @@ msgid "type conversion"
 msgstr "类型转换"
 
 #: ../core.rst:31
-msgid "convert to string .. code:: python"
-msgstr "转换为字符串 .. code:: python"
+msgid "convert to string"
+msgstr "转换为字符串"
 
 #: ../core.rst:36
 msgid "convert byte to unit"
@@ -109,8 +109,8 @@ msgstr "根据时间返回多长时间前，如：1秒前，1分钟前，1小时
 
 #: ../core.rst:124
 #, fuzzy
-msgid "ISO format time .. code:: python"
-msgstr "ISO格式时间 .. code:: python"
+msgid "ISO format time"
+msgstr "ISO格式时间"
 
 #: ../core.rst:132
 msgid "Image Functions"

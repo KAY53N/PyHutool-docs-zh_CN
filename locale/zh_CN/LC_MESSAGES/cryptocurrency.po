@@ -29,6 +29,6 @@ msgstr "OKX交易所API"
 msgid ""
 "The API operation package of OKX exchange, the related API can be used "
 "after initialization, and it needs to be over the wall in mainland China "
-"to use .. code:: python"
+"to use"
 msgstr "OKX交易所的API操作，初始化后即可使用，中国大陆需要翻墙 code:: python"
 
