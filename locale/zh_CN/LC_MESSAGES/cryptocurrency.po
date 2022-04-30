@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../cryptocurrency.rst:3
 msgid "Cryptocurrency Control Functions"
-msgstr "加密货币功能"
+msgstr "加密货币模块"
 
 #: ../cryptocurrency.rst:6
 msgid "OKX Exchange API Operation"
