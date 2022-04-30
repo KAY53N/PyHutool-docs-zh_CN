@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyHutool \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-21 00:22+0800\n"
+"POT-Creation-Date: 2022-05-01 01:59+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 
 #: ../core.rst:3
 msgid "Core Control Functions"
@@ -61,85 +61,93 @@ msgstr "中文大写金额转换为数字"
 msgid "Convert digital amounts to Chinese uppercase"
 msgstr "将数字金额转换为中文大写"
 
-#: ../core.rst:62
+#: ../core.rst:60
+msgid "Underscore to CamelCase"
+msgstr "下划线转驼峰"
+
+#: ../core.rst:66
+msgid "Hump to underscore"
+msgstr "驼峰转下划线"
+
+#: ../core.rst:74
 msgid "Date Functions"
 msgstr "日期函数"
 
-#: ../core.rst:63
+#: ../core.rst:75
 msgid "Calculate the age of a specified birthday in a certain year"
 msgstr "计算某年指定生日的年龄"
 
-#: ../core.rst:69
+#: ../core.rst:81
 msgid "Modify the start time of the current week for a given date"
 msgstr "修改给定日期当前周的开始时间"
 
-#: ../core.rst:76
+#: ../core.rst:88
 msgid "Compare if two dates are the same day"
 msgstr "比较两个日期是否为同一天"
 
-#: ../core.rst:82
+#: ../core.rst:94
 msgid "Compare if two dates are the same month"
 msgstr "比较两个日期是否同月"
 
-#: ../core.rst:88
+#: ../core.rst:100
 msgid "Compare if two dates are the same week"
 msgstr "比较两个日期是否在同一周"
 
-#: ../core.rst:94
+#: ../core.rst:106
 msgid "Get the specified date year and quarter"
 msgstr "获取指定日期年份和季度"
 
-#: ../core.rst:100
+#: ../core.rst:112
 msgid "Get the year and quarter within the specified date range and return"
 msgstr "获取指定日期范围内的年份和季度并返回"
 
-#: ../core.rst:106
+#: ../core.rst:118
 msgid ""
 "Return how long ago according to the time, such as: 1 second ago, 1 "
 "minute ago, 1 hour ago"
 msgstr "根据时间返回多长时间前，如：1秒前，1分钟前，1小时前"
 
-#: ../core.rst:114
+#: ../core.rst:126
 msgid "Image Functions"
 msgstr "图像函数"
 
-#: ../core.rst:116
+#: ../core.rst:128
 msgid "zoom image"
 msgstr "缩放图像"
 
-#: ../core.rst:123
+#: ../core.rst:135
 msgid "grayscale image"
 msgstr "灰度图像"
 
-#: ../core.rst:129
+#: ../core.rst:141
 msgid "image binary"
 msgstr "图片二值化"
 
-#: ../core.rst:135
+#: ../core.rst:147
 msgid "Linear replacement color"
 msgstr "线性替换颜色"
 
-#: ../core.rst:142
+#: ../core.rst:154
 msgid "Gaussian replacement replaces image color"
 msgstr "高斯颜色替换"
 
-#: ../core.rst:148
+#: ../core.rst:160
 msgid "Mean replace image color"
 msgstr "均值颜色替换"
 
-#: ../core.rst:154
+#: ../core.rst:166
 msgid "Image watermark"
 msgstr "图片水印"
 
-#: ../core.rst:160
+#: ../core.rst:172
 msgid "Detect image type"
 msgstr "检测图片类型"
 
-#: ../core.rst:166
+#: ../core.rst:178
 msgid "Detect image MIME type"
 msgstr "检测图片MIME"
 
-#: ../core.rst:172
+#: ../core.rst:184
 msgid "Identify the face in the picture and return the coordinates of the face"
 msgstr "从图片中查找人脸的坐标并返回"
 

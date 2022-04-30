@@ -8,16 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyHutool \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-21 01:08+0800\n"
+"POT-Creation-Date: 2022-05-01 01:59+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 
-#: ../index.rst:21 ../index.rst:34
+#: ../index.rst:22 ../index.rst:35
 msgid "Contents:"
 msgstr "目录："
 
@@ -26,7 +26,8 @@ msgid "Welcome to PyHutool's documentation!"
 msgstr "PyHutool 文档"
 
 #: ../index.rst:7
-msgid "The source code is available on: https://github.com/kaysen820/PyHutool"
+#, fuzzy
+msgid "The source code is available on: https://github.com/KAY53N/PyHutool"
 msgstr "源码：https://github.com/kaysen820/PyHutool"
 
 #: ../index.rst:9
@@ -65,11 +66,8 @@ msgid "pyhutool.system"
 msgstr ""
 
 #: ../index.rst:16
-msgid ""
-"Get system-related information, such as the number of monitors, the "
-"current window title, what program the system is running, and the PID, "
-"etc."
-msgstr "获取系统相关信息，如显示器数量，当前窗口标题，系统正在运行什么程序以及PID等"
+msgid "Get system-related information and running program status"
+msgstr ""
 
 #: ../index.rst:17
 msgid "pyhutool.crypto"
@@ -81,54 +79,69 @@ msgid ""
 "digest algorithm encapsulation"
 msgstr "加密解密模块，提供对称、非对称和摘要算法封装"
 
+#: ../index.rst:18
+msgid "pyhutool.cryptocurrency"
+msgstr ""
 
-#: ../index.rst:41
+#: ../index.rst:18
+msgid "Encapsulation of cryptocurrency related libraries"
+msgstr "加密货币相关库的封装"
+
+#: ../index.rst:42
 msgid "Indices and tables"
 msgstr "索引"
 
-#: ../index.rst:43
+#: ../index.rst:44
 msgid ":ref:`genindex`"
 msgstr ""
 
-#: ../index.rst:44
+#: ../index.rst:45
 msgid ":ref:`modindex`"
 msgstr ""
 
-#: ../index.rst:45
+#: ../index.rst:46
 msgid ":ref:`search`"
-msgstr ""
+msgstr "搜索"
 
 #~ msgid "PyHutool has several features:"
 #~ msgstr "PyHutool特性："
 
 #~ msgid "Moving the mouse and clicking in the windows of other applications."
-#~ msgstr ""
+#~ msgstr "移动鼠标并点击操作"
 
 #~ msgid "Sending keystrokes to applications (for example, to fill out forms)."
-#~ msgstr ""
+#~ msgstr "键盘按键操作（例如填写表单）"
 
 #~ msgid ""
 #~ "Take screenshots, and given an image "
 #~ "(for example, of a button or "
 #~ "checkbox), and find it on the "
 #~ "screen."
-#~ msgstr ""
+#~ msgstr "截取屏幕图片，根据特定图片找到坐标"
 
 #~ msgid ""
 #~ "Locate an application's window, and "
 #~ "move, resize, maximize, minimize, or "
 #~ "close it (Windows-only, currently)."
-#~ msgstr ""
+#~ msgstr "找到应用程序的窗口，然后移动、调整大小、最大化、最小化等（目前仅适用于 Windows）"
 
 #~ msgid "Display alert and message boxes."
-#~ msgstr ""
+#~ msgstr "显示消息框"
 
 #~ msgid ""
 #~ "Support calling the clipboard of the "
 #~ "system to achieve copy and paste "
 #~ "operations"
-#~ msgstr ""
+#~ msgstr "系统的剪贴板实现复制和粘贴"
 
 #~ msgid "Supports querying the process details of the current operating system"
-#~ msgstr ""
+#~ msgstr "支持查询当前操作系统的进程详情"
+
+#~ msgid ""
+#~ "Get system-related information, such as"
+#~ " the number of monitors, the current"
+#~ " window title, what program the "
+#~ "system is running, and the PID, "
+#~ "etc."
+#~ msgstr "获取系统相关信息，如显示器数量，当前窗口标题，系统正在运行什么程序以及PID等"
 
