@@ -67,7 +67,7 @@ msgstr ""
 
 #: ../index.rst:16
 msgid "Get system-related information and running program status"
-msgstr ""
+msgstr "获取系统相关信息，如显示器数量，当前窗口标题，系统运行的应用信息等。"
 
 #: ../index.rst:17
 msgid "pyhutool.crypto"
