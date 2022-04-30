@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyHutool \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 01:59+0800\n"
+"POT-Creation-Date: 2022-05-01 03:34+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,9 +26,10 @@ msgid "OKX Exchange API Operation"
 msgstr "OKX交易所API"
 
 #: ../cryptocurrency.rst:8
+#, fuzzy
 msgid ""
 "The API operation package of OKX exchange, the related API can be used "
 "after initialization, and it needs to be over the wall in mainland China "
-"to use .. code:: python"
-msgstr "OKX交易所的API操作，初始化后即可使用，中国大陆需要翻墙 code:: python"
+"to use"
+msgstr "OKX交易所的API操作，初始化后即可使用，中国大陆需要翻墙使用"
 
