@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyHutool \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 01:59+0800\n"
+"POT-Creation-Date: 2022-05-01 03:18+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -107,47 +107,52 @@ msgid ""
 "minute ago, 1 hour ago"
 msgstr "根据时间返回多长时间前，如：1秒前，1分钟前，1小时前"
 
-#: ../core.rst:126
+#: ../core.rst:124
+#, fuzzy
+msgid "ISO format time .. code:: python"
+msgstr "ISO格式时间 .. code:: python"
+
+#: ../core.rst:132
 msgid "Image Functions"
 msgstr "图像函数"
 
-#: ../core.rst:128
+#: ../core.rst:134
 msgid "zoom image"
 msgstr "缩放图像"
 
-#: ../core.rst:135
+#: ../core.rst:141
 msgid "grayscale image"
 msgstr "灰度图像"
 
-#: ../core.rst:141
+#: ../core.rst:147
 msgid "image binary"
 msgstr "图片二值化"
 
-#: ../core.rst:147
+#: ../core.rst:153
 msgid "Linear replacement color"
 msgstr "线性替换颜色"
 
-#: ../core.rst:154
+#: ../core.rst:160
 msgid "Gaussian replacement replaces image color"
 msgstr "高斯颜色替换"
 
-#: ../core.rst:160
+#: ../core.rst:166
 msgid "Mean replace image color"
 msgstr "均值颜色替换"
 
-#: ../core.rst:166
+#: ../core.rst:172
 msgid "Image watermark"
 msgstr "图片水印"
 
-#: ../core.rst:172
+#: ../core.rst:178
 msgid "Detect image type"
 msgstr "检测图片类型"
 
-#: ../core.rst:178
+#: ../core.rst:184
 msgid "Detect image MIME type"
 msgstr "检测图片MIME"
 
-#: ../core.rst:184
+#: ../core.rst:190
 msgid "Identify the face in the picture and return the coordinates of the face"
 msgstr "从图片中查找人脸的坐标并返回"
 
