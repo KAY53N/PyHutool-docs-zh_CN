@@ -58,7 +58,7 @@ msgid "Open terminal"
 msgstr "打开终端"
 
 #: ../system.rst:64
-msgid "Get the number of monitors"
+msgid "Get the number of monitors .. code:: python"
 msgstr "获取显示器数量"
 
 #: ../system.rst:69
