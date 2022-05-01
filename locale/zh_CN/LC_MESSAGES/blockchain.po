@@ -1,0 +1,34 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, kaysen
+# This file is distributed under the same license as the PyHutool package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyHutool \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-01 15:40+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
+#: ../blockchain.rst:3
+msgid "Blockchain Control Functions"
+msgstr ""
+
+#: ../blockchain.rst:6
+msgid "OKX Exchange API Operation"
+msgstr ""
+
+#: ../blockchain.rst:8
+msgid ""
+"The API operation package of OKX exchange, the related API can be used "
+"after initialization, and it needs to be over the wall in mainland China "
+"to use"
+msgstr ""
+
