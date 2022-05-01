@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyHutool \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 17:33+0800\n"
+"POT-Creation-Date: 2022-05-01 17:56+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,102 +33,85 @@ msgstr "压缩文件相关功能"
 msgid "Convert Functions"
 msgstr "转换函数"
 
-#: ../core.rst:19
-msgid "Convert numbers to Chinese uppercase"
-msgstr "将数字转换为中文大写"
-
-#: ../core.rst:25
+#: ../core.rst:20
 msgid "type conversion"
 msgstr "类型转换"
 
-#: ../core.rst:31
+#: ../core.rst:26
 msgid "convert to string .. code:: python"
 msgstr "转换为字符串"
 
-#: ../core.rst:36
-msgid "convert byte to unit"
-msgstr "将字节转换为unit"
-
-#: ../core.rst:42
+#: ../core.rst:31
 msgid "convert bytes to int"
 msgstr "将字节转换为整数"
 
-#: ../core.rst:48
-msgid "Chinese capitalized amount converted into numbers"
-msgstr "中文大写金额转换为数字"
-
-#: ../core.rst:54
-msgid "Convert digital amounts to Chinese uppercase"
-msgstr "将数字金额转换为中文大写"
-
-#: ../core.rst:60
+#: ../core.rst:38
 msgid "Underscore to CamelCase"
 msgstr "下划线转驼峰"
 
-#: ../core.rst:66
+#: ../core.rst:44
 msgid "Hump to underscore"
 msgstr "驼峰转下划线"
 
-#: ../core.rst:74
+#: ../core.rst:52
 msgid "Date Functions"
 msgstr "日期函数"
 
-#: ../core.rst:75
+#: ../core.rst:53
 msgid "Calculate the age of a specified birthday in a certain year"
 msgstr "计算某年指定生日的年龄"
 
-#: ../core.rst:82
+#: ../core.rst:60
 msgid "Compare if two dates are the same day"
 msgstr "比较两个日期是否为同一天"
 
-#: ../core.rst:88
+#: ../core.rst:66
 msgid "Compare if two dates are the same month"
 msgstr "比较两个日期是否同月"
 
-#: ../core.rst:94
+#: ../core.rst:72
 msgid "Compare if two dates are the same week"
 msgstr "比较两个日期是否在同一周"
 
-#: ../core.rst:101
+#: ../core.rst:79
 #, fuzzy
 msgid ""
 "Return how long ago according to the time, such as: 1 minute ago, 1 hour "
 "ago ..."
 msgstr "根据时间返回多长时间前，如：1秒前，1分钟前，1小时前"
 
-#: ../core.rst:107
+#: ../core.rst:85
 msgid "ISO format time"
 msgstr "格式化为ISO时间"
 
-#: ../core.rst:116
+#: ../core.rst:93
 msgid "Image Functions"
 msgstr "图像函数"
 
-#: ../core.rst:118
+#: ../core.rst:95
 msgid "Hexadecimal color to RGB"
 msgstr "16进制颜色转RGB"
 
-#: ../core.rst:125
+#: ../core.rst:102
 msgid "RGB to hexadecimal color"
 msgstr "RGB转16进制颜色"
 
-#: ../core.rst:132
+#: ../core.rst:109
 msgid "zoom image"
 msgstr "缩放图像"
 
-#: ../core.rst:140
+#: ../core.rst:117
 msgid "replacement color"
 msgstr "颜色替换"
 
-#: ../core.rst:147
+#: ../core.rst:124
 msgid "Image watermark"
 msgstr "图片水印"
 
-#: ../core.rst:153
+#: ../core.rst:130
 msgid "Detect image type"
 msgstr "检测图片类型"
 
-#: ../core.rst:160
+#: ../core.rst:137
 msgid "Identify the face in the picture and return the coordinates of the face"
 msgstr "从图片中查找人脸的坐标并返回"
-
