@@ -19,16 +19,16 @@ msgstr ""
 
 #: ../blockchain.rst:3
 msgid "Blockchain Control Functions"
-msgstr ""
+msgstr "区块链模块"
 
 #: ../blockchain.rst:6
 msgid "OKX Exchange API Operation"
-msgstr ""
+msgstr "OKX交易所API"
 
 #: ../blockchain.rst:8
 msgid ""
 "The API operation package of OKX exchange, the related API can be used "
 "after initialization, and it needs to be over the wall in mainland China "
 "to use"
-msgstr ""
+msgstr "OKX交易所的API，初始化后即可使用，中国大陆需要翻墙使用"
 
