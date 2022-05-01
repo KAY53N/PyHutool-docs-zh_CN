@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyHutool \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 03:30+0800\n"
+"POT-Creation-Date: 2022-05-01 17:33+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -77,84 +77,58 @@ msgstr "日期函数"
 msgid "Calculate the age of a specified birthday in a certain year"
 msgstr "计算某年指定生日的年龄"
 
-#: ../core.rst:81
-msgid "Modify the start time of the current week for a given date"
-msgstr "修改给定日期当前周的开始时间"
-
-#: ../core.rst:88
+#: ../core.rst:82
 msgid "Compare if two dates are the same day"
 msgstr "比较两个日期是否为同一天"
 
-#: ../core.rst:94
+#: ../core.rst:88
 msgid "Compare if two dates are the same month"
 msgstr "比较两个日期是否同月"
 
-#: ../core.rst:100
+#: ../core.rst:94
 msgid "Compare if two dates are the same week"
 msgstr "比较两个日期是否在同一周"
 
-#: ../core.rst:106
-msgid "Get the specified date year and quarter"
-msgstr "获取指定日期年份和季度"
-
-#: ../core.rst:112
-msgid "Get the year and quarter within the specified date range and return"
-msgstr "获取指定日期范围内的年份和季度并返回"
-
-#: ../core.rst:118
+#: ../core.rst:101
+#, fuzzy
 msgid ""
-"Return how long ago according to the time, such as: 1 second ago, 1 "
-"minute ago, 1 hour ago"
+"Return how long ago according to the time, such as: 1 minute ago, 1 hour "
+"ago ..."
 msgstr "根据时间返回多长时间前，如：1秒前，1分钟前，1小时前"
 
-#: ../core.rst:124
+#: ../core.rst:107
 msgid "ISO format time"
 msgstr "格式化为ISO时间"
 
-#: ../core.rst:133
+#: ../core.rst:116
 msgid "Image Functions"
 msgstr "图像函数"
 
-#: ../core.rst:135
+#: ../core.rst:118
+msgid "Hexadecimal color to RGB"
+msgstr "16进制颜色转RGB"
+
+#: ../core.rst:125
+msgid "RGB to hexadecimal color"
+msgstr "RGB转16进制颜色"
+
+#: ../core.rst:132
 msgid "zoom image"
 msgstr "缩放图像"
 
-#: ../core.rst:142
-msgid "grayscale image"
-msgstr "灰度图像"
+#: ../core.rst:140
+msgid "replacement color"
+msgstr "颜色替换"
 
-#: ../core.rst:148
-msgid "image binary"
-msgstr "图片二值化"
-
-#: ../core.rst:154
-msgid "Linear replacement color"
-msgstr "线性替换颜色"
-
-#: ../core.rst:161
-msgid "Gaussian replacement replaces image color"
-msgstr "高斯颜色替换"
-
-#: ../core.rst:167
-msgid "Mean replace image color"
-msgstr "均值颜色替换"
-
-#: ../core.rst:173
+#: ../core.rst:147
 msgid "Image watermark"
 msgstr "图片水印"
 
-#: ../core.rst:179
+#: ../core.rst:153
 msgid "Detect image type"
 msgstr "检测图片类型"
 
-#: ../core.rst:185
-msgid "Detect image MIME type"
-msgstr "检测图片MIME"
-
-#: ../core.rst:191
+#: ../core.rst:160
 msgid "Identify the face in the picture and return the coordinates of the face"
 msgstr "从图片中查找人脸的坐标并返回"
-
-#~ msgid "ISO format time .. code:: python"
-#~ msgstr "ISO格式时间"
 
